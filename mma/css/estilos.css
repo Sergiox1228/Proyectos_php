@@ -1,0 +1,54 @@
+.color-amarillo {
+
+background-color: yellow;
+
+}
+
+.color-azul {
+	background-color: blue;
+}
+
+.color-rojo {
+	background-color: red;
+}
+
+.color-verde {
+	background-color: green;
+}
+
+.color-verde {
+	background-color: green;
+}
+
+.color-gris {
+	background-color: gray;
+}
+
+
+.color-negro {
+	background-color: black;
+}
+
+.centrar {
+
+
+}
+
+#pie {
+
+	
+}
+
+.center {
+	text-align: center;
+}
+
+.display-auto {
+	display: auto;
+}
+
+.imgnormalizada img {
+  width: auto;
+  height: 225px;
+  max-height: 225px;
+}
